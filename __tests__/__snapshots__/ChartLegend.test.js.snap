@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChartLegend Component renders without crashing 1`] = `
+<div>
+  <div
+    class="chart-legend"
+  >
+    <div
+      class="legend-item"
+    >
+      <span
+        class="legend-color"
+        style="background-color: rgb(255, 0, 0);"
+      />
+      <span
+        class="legend-label"
+      >
+        January
+      </span>
+    </div>
+    <div
+      class="legend-item"
+    >
+      <span
+        class="legend-color"
+        style="background-color: rgb(0, 255, 0);"
+      />
+      <span
+        class="legend-label"
+      >
+        February
+      </span>
+    </div>
+  </div>
+</div>
+`;

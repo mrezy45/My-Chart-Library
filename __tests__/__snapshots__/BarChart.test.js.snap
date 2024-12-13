@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BarChart Component renders without crashing 1`] = `
+<div>
+  <div
+    class="chart-container"
+  >
+    <svg
+      height="300px"
+      width="100%"
+    >
+      <rect
+        fill="#ff0000"
+        height="50"
+        width="40"
+        x="0"
+        y="250"
+      />
+      <rect
+        fill="#00ff00"
+        height="80"
+        width="40"
+        x="50"
+        y="220"
+      />
+    </svg>
+  </div>
+</div>
+`;

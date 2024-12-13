@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LineChart Component renders without crashing 1`] = `
+<div>
+  <div
+    class="chart-container"
+  >
+    <svg
+      height="300px"
+      width="100%"
+    >
+      <polyline
+        fill="none"
+        points="0,112.5 50,0"
+        stroke="#ff0000"
+        stroke-width="2"
+      />
+    </svg>
+  </div>
+</div>
+`;
